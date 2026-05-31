@@ -1,0 +1,28 @@
+{
+  "name": "Trading Framework — BSJP & BPJS",
+  "short_name": "TradingFW",
+  "description": "Daily trading framework: Broksum, Net Foreign, Decision Engine, RSI, Pivot, Position Size",
+  "start_url": "/daily_trading_framework.html",
+  "display": "standalone",
+  "background_color": "#0d0f14",
+  "theme_color": "#00d68f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "productivity"],
+  "screenshots": [],
+  "lang": "id",
+  "dir": "ltr"
+}
